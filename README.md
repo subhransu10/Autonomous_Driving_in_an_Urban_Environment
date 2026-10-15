@@ -156,7 +156,7 @@ The project is divided into four modules. Each student is responsible for implem
 **Expected Result:** An interactive semantic visualization showing the vehicle's surroundings and distinguishing different urban elements.
 
 **Note:** The semantic representation may use known Unity object labels and positions. Developing a machine-learning-based semantic segmentation system or a complete SLAM pipeline is not required.
-
+**Tips from Instructor:** The only coordination requirement I would emphasize to students is that Student 1 and Student 3 must agree on a common vehicle control interface. Student 3 should be able to request slowing or stopping without replacing Student 1's navigation logic. This will make their final integration much easier.
 
 ## 4. General Requirements
 
