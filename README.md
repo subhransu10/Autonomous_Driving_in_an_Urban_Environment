@@ -80,7 +80,7 @@ Locate the following components:
 **Note:** Students can duplicate existing cars and pedestrians and reuse their movement scripts to create additional traffic scenarios. They do not need to create new vehicle or pedestrian models.
 
 <p align="center">
-  <img src="https://github.com/subhransu10/Autonomous_Driving_in_an_Urban_Environment/blob/main/Screenshot%202026-10-15%20174726.png" width="100%">
+  <img src="https://github.com/subhransu10/Autonomous_Driving_in_an_Urban_Environment/blob/main/Screenshot%202026-10-15%20174726.png" width="50%">
 </p>
 
 
