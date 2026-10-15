@@ -5,6 +5,9 @@
 **Project Duration:** 4–5 weeks  
 **Environment:** Urban City Simulation
 
+
+https://github.com/user-attachments/assets/e5292b19-634d-4272-a881-c4e48c506649
+
 ## 1. Project Overview
 
 The objective of this project is to develop and extend an autonomous driving simulation in an urban environment using Unity.
@@ -77,11 +80,10 @@ Locate the following components:
 **Note:** Students can duplicate existing cars and pedestrians and reuse their movement scripts to create additional traffic scenarios. They do not need to create new vehicle or pedestrian models.
 
 <p align="center">
-  <img src="https://github.com/subhransu10/Indoor_Warehouse_Robotics_Project/blob/main/hierarchy.png" width="50%">
+  <img src="https://github.com/subhransu10/Autonomous_Driving_in_an_Urban_Environment/blob/main/Screenshot%202026-10-15%20174726.png" width="100%">
 </p>
 
 
-https://github.com/user-attachments/assets/e5292b19-634d-4272-a881-c4e48c506649
 
 
 ## 3. Student Tasks
