@@ -157,7 +157,7 @@ The project is divided into four modules. Each student is responsible for implem
 
 **Note:** The semantic representation may use known Unity object labels and positions. Developing a machine-learning-based semantic segmentation system or a complete SLAM pipeline is not required.
 
-<img width="1680" height="939" alt="interface" src="https://github.com/user-attachments/assets/2c152dd2-246f-4267-9a25-b1f9b8ba7fa7" />
+<img width="1235" height="936" alt="Screenshot 2026-10-16 104222" src="https://github.com/user-attachments/assets/527a194c-5e07-44ea-8833-23db7cc552f0" />
 
 **Tips from Instructor:** The only coordination requirement I would emphasize to students is that Student 1 and Student 3 must agree on a common vehicle control interface. Student 3 should be able to request slowing or stopping without replacing Student 1's navigation logic. This will make their final integration much easier.
 
