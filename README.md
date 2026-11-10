@@ -24,7 +24,7 @@ The goal is **to extend the existing simulation rather than build a new project 
 ### 2.1 Project Setup
 
 1. Download and install **Unity 2022.3.62f3** using [Unity Hub](https://unity.com/download).
-2. Download the project from this [OneDrive link](). Request access from the instructor if necessary.
+2. Download the project from this [OneDrive link](https://unigeit-my.sharepoint.com/:u:/r/personal/s5302091_studenti_unige_it/Documents/Project%20Proposals%2026_27/Project_City.zip?d=w9dabaa79f5b84c769dabc1079413ae47&csf=1&web=1&e=Cm1GDS). Request access from the instructor if necessary.
 3. Open the provided Unity project and load the city environment scene.
 
 ### 2.2 Required Packages
